@@ -15,4 +15,4 @@ Bilişim Teknolojileri ve Yazılım dersi kapsamında kullanılan ders kitabı v
 Algoritma tasarımı, sözde kod, koşullu ifadeler ve döngüler konularında derste edinilen bilgiler.
 
 Ahilik kültürünün dürüstlük, güvenilirlik, saygı ve kaliteli iş yapma ilkelerine ilişkin ders materyalleri.
-![(akış diyagram)(https://github.com/fatosyapayzeka-lgtm/kod_asistanim/blob/3ba4d9cf7a85a700e006529767b7396d2f15b2fa/prog.png)]
+![(akış diyagram)(https://github.com/fatosyapayzeka-lgtm/kod_asistanim/blob/3ba4d9cf7a85a700e006529767b7396d2f15b2fa/prog.png)
